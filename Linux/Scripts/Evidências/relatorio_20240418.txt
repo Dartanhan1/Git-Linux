@@ -1,0 +1,19 @@
+Data do sistema operacional: 2024/04/18 15:27
+Data do primeiro registro de vendas:
+01/01/2025
+Data do último registro de vendas:
+31/01/2025
+Quantidade total de itens diferentes vendidos:
+66
+Primeiras 10 linhas do arquivo:
+id,produto,quantidade,preço,data
+1,papel sulfite,2,60.00,01/01/2025
+2,caneta esferográfica,1,85.00,02/01/2025
+3,lápis,3,60.00,03/01/2025
+4,borracha,2,15.00,04/01/2025
+5,clips de papel,4,40.00,05/01/2025
+6,grampos,2,60.00,06/01/2025
+7,grampeador,1,30.00,07/01/2025
+8,fita adesiva,2,23.00,08/01/2025
+9,tesoura ,3,10.00,09/01/2025
+10,marca texto,4,4.00,10/01/2025

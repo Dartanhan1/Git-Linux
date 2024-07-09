@@ -1,0 +1,60 @@
+Data do sistema operacional: 2024/04/16 15:27
+Data do primeiro registro de vendas:
+01/01/2023
+Data do último registro de vendas:
+31/01/2023
+Quantidade total de itens diferentes vendidos:
+67
+Primeiras 10 linhas do arquivo:
+id,produto,quantidade,preço,data
+1,camiseta,2,29.90,01/01/2023
+2,calça,5,80.00,02/01/2023
+3,sapato,3,100.00,03/01/2023
+4,meia,20,5.00,04/01/2023
+5,cinto,8,15.00,05/01/2023
+6,camisa,7,40.00,06/01/2023
+7,bermuda,6,50.00,07/01/2023
+8,tênis,4,120.00,08/01/2023
+9,bone,12,10.00,09/01/2023
+10,casaco,2,150.00,10/01/2023
+
+Data do sistema operacional: 2024/04/17 15:27
+Data do primeiro registro de vendas:
+01/01/2024
+Data do último registro de vendas:
+31/01/2024
+Quantidade total de itens diferentes vendidos:
+67
+Primeiras 10 linhas do arquivo:
+id,produto,quantidade,preço,data
+1,conjunto de panelas,3,60.00,01/01/2024
+2,panela de pressão,4,85.00,02/01/2024
+3,frigideira antiaderente,2,60.00,03/01/2024
+4,faqueiro,3,15.00,04/01/2024
+5,tábua de corte de carnes ,5,40.00,05/01/2024
+6,chaleira,6,60.00,06/01/2024
+7,coador de café,7,30.00,07/01/2024
+8,escumadeira,8,23.00,08/01/2024
+9,peneiras,9,10.00,09/01/2024
+10,colher de pau,1,4.00,10/01/2024
+
+Data do sistema operacional: 2024/04/18 15:27
+Data do primeiro registro de vendas:
+01/01/2025
+Data do último registro de vendas:
+31/01/2025
+Quantidade total de itens diferentes vendidos:
+66
+Primeiras 10 linhas do arquivo:
+id,produto,quantidade,preço,data
+1,papel sulfite,2,60.00,01/01/2025
+2,caneta esferográfica,1,85.00,02/01/2025
+3,lápis,3,60.00,03/01/2025
+4,borracha,2,15.00,04/01/2025
+5,clips de papel,4,40.00,05/01/2025
+6,grampos,2,60.00,06/01/2025
+7,grampeador,1,30.00,07/01/2025
+8,fita adesiva,2,23.00,08/01/2025
+9,tesoura ,3,10.00,09/01/2025
+10,marca texto,4,4.00,10/01/2025
+
